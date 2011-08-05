@@ -1,3 +1,6 @@
+#ifndef GAMEENGINE_H
+#define GAMEENGINE_H
+
 #include "game.h"
 
 class GameEngine{
@@ -16,3 +19,5 @@ private:
 	void save();
 	
 };
+
+#endif
