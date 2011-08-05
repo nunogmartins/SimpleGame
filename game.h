@@ -7,5 +7,5 @@ public:
 	~Game();
 
 	void update();
-	bool over()const;
+	bool isOver()const;
 };

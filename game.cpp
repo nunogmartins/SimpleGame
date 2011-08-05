@@ -17,7 +17,7 @@ void Game::update()
 	
 }
 
-bool Game::over()const
+bool Game::isOver()const
 {
 	
 	return this->i==10;

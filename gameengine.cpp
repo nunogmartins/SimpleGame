@@ -16,11 +16,10 @@ GameEngine::~GameEngine()
 
 void GameEngine::update()const
 {
-	std::cout << "update function" << std::endl;
 	if(this->game == 0)
 		return;
 		
-	while(!this->game->over()){
+	while(!this->game->isOver()){
 		this->game->update();
 		sleep(1);
 	}
