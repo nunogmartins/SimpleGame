@@ -1,4 +1,4 @@
-# Game-Base
+# Game Base | basic command for YOUR game
 
 
 	 Copyright (C) 2015  Félix Archambault
