@@ -1,6 +1,7 @@
 #include <iostream>
-
+#include <unistd.h>
 #include "gameengine.h"
+#include "game.h"
 
 GameEngine::GameEngine()
 {

@@ -1,4 +1,5 @@
-#include "gameengine.h"
+#include "gameengine.cpp"
+#include "game.cpp"
 
 int main(int argc, char **argv)
 {
