@@ -20,4 +20,4 @@
 	Warning this program is in devlopment stage. The program may contains bug, glitches.
 
 
-	This is a c++ Based game engine THIS IS NOT A GAME you can use it to develop your one.
+	This is a c++ Based game engine THIS IS NOT A GAME you can use it to develop yours.
